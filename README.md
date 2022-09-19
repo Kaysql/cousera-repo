@@ -1,2 +1,2 @@
-# cousera-repo
+# coursera-repo
 Practice Git
